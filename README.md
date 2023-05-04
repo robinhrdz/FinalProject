@@ -2,6 +2,7 @@
 The project is divided into different folder for a better understanding on the organization
 The main folder contains all the php files such as index, db_connection, footer, start_session, and top menu all with php extension, because they are the main code that the project uses.
 The folder is arranged in alphabetical order: 
+<br>
 •	Community_support with files community, contribution, and contribution_process
 •	Css with files bannerImages, personalized_workouts, popUp, style, table, and VideoContainer
 •	img with all the images used in the webpage
